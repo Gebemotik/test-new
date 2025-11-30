@@ -26,6 +26,11 @@ public class DemoApplication {
 
 		System.out.println("NEW WORK");
 
+
+		System.out.println("Rock on!");
+
+
+
 	}
 
 }
