@@ -27,7 +27,10 @@ public class DemoApplication {
 		System.out.println("NEW WORK");
 
 
+
 		System.out.println("Leonard did some great things in his life ;p");
+
+		System.out.println("Rock on!");
 
 	}
 
