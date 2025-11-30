@@ -24,6 +24,8 @@ public class DemoApplication {
 		System.out.println("Hello World again 555+7777!");
 
 
+		System.out.println("NEW WORK");
+
 	}
 
 }
